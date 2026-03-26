@@ -9,4 +9,4 @@ I'm fascinated by using data to solve real-world problems and uncover meaningful
 Outside of academics, I'm interested in following the developments of technology and AI. I also make some amazing crafts.
 
 #### Let's connect!
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />] (www.linkedin.com/in/abhibita-sanya-priyadarshani)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](www.linkedin.com/in/abhibita-sanya-priyadarshani)
